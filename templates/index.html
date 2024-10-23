@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventory Management</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container mt-4">
+        <div class="row mb-4">
+            <div class="col-md-2">
+                <img src="{{ url_for('static', filename='company_logo.png') }}" alt="Company Logo" class="img-fluid">
+            </div>
+            <div class="col-md-10">
+                <h1 class="display-4">BOM CREATOR</h1>
+                <h3 class="text-muted">Design Department</h3>
+            </div>
+        </div>
+
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <div class="input-group">
+                    <input type="text" id="searchInput" class="form-control" placeholder="Search Items">
+                    <button class="btn btn-outline-secondary" type="button" id="searchButton">Search</button>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="input-group">
+                    <input type="text" id="fetchInput" class="form-control" placeholder="Fetch Items">
+                    <button class="btn btn-outline-secondary" type="button" id="fetchButton">Fetch</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mb-4">
+            <div class="col">
+                <ul id="suggestionList" class="list-group"></ul>
+            </div>
+        </div>
+
+        <div class="row mb-4">
+            <div class="col">
+                <table id="itemTable" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Item Code</th>
+                            <th>Item Description</th>
+                            <th>Quantity</th>
+                            <th>Inventory UoM</th>
+                            <th>Remark</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="row mb-4">
+            <div class="col">
+                <button id="deleteSelectedButton" class="btn btn-danger">Delete Selected</button>
+                <button id="exportButton" class="btn btn-success">Export to Excel</button>
+                <button id="associateButton" class="btn btn-primary">Associate Items</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

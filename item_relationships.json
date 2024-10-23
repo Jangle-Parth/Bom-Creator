@@ -1,0 +1,674 @@
+{
+  "SFG00162": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00458", "qty": 0.4 },
+      { "code": "BO00002", "qty": 2 }
+    ]
+  },
+
+  "SFG00297": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 0.65 },
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00245", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 }
+    ]
+  },
+  "SFG00298": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 0.65 },
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00245", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 }
+    ]
+  },
+  "SFG00299": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 2.06 },
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00245", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 },
+      { "code": "RM00009", "qty": 1.8 }
+    ]
+  },
+  "SFG00300": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 2.06 },
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00245", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 },
+      { "code": "RM00009", "qty": 1.8 }
+    ]
+  },
+  "SFG00301": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 2.45 },
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00245", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 },
+      { "code": "RM00009", "qty": 1.8 }
+    ]
+  },
+  "SFG00302": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 2.45 },
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00245", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 },
+      { "code": "RM00009", "qty": 1.8 }
+    ]
+  },
+  "SFG00303": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 2.6 },
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00245", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 },
+      { "code": "RM00009", "qty": 1.8 }
+    ]
+  },
+  "SFG00304": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 2.6 },
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00245", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 },
+      { "code": "RM00009", "qty": 1.8 }
+    ]
+  },
+  "SFG00305": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 0.78 },
+      { "code": "BO00244", "qty": 1 },
+      { "code": "BO00246", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "BO00380", "qty": 4 }
+    ]
+  },
+  "SFG00306": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 0.78 },
+      { "code": "BO00244", "qty": 1 },
+      { "code": "BO00246", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "BO00380", "qty": 4 }
+    ]
+  },
+
+  "SFG00307": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 2.37 },
+      { "code": "BO00244", "qty": 1 },
+      { "code": "BO00246", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "BO00380", "qty": 4 },
+      { "code": "RM00009", "qty": 2.95 }
+    ]
+  },
+
+  "SFG00309": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 2.76 },
+      { "code": "BO00244", "qty": 1 },
+      { "code": "BO00246", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "BO00380", "qty": 4 },
+      { "code": "RM00009", "qty": 2.95 }
+    ]
+  },
+
+  "SFG00310": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 2.76 },
+      { "code": "BO00244", "qty": 1 },
+      { "code": "BO00246", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "BO00380", "qty": 4 },
+      { "code": "RM00009", "qty": 2.95 }
+    ]
+  },
+
+  "SFG00311": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 2.93 },
+      { "code": "BO00244", "qty": 1 },
+      { "code": "BO00246", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "BO00380", "qty": 4 },
+      { "code": "RM00009", "qty": 2.95 }
+    ]
+  },
+  "SFG00312": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 2.93 },
+      { "code": "BO00244", "qty": 1 },
+      { "code": "BO00246", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "BO00380", "qty": 4 },
+      { "code": "RM00009", "qty": 2.95 }
+    ]
+  },
+  "SFG01063": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 2.98 },
+      { "code": "SFG00975", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "SFG01064", "qty": 1 }
+    ]
+  },
+
+  "SFG01121": {
+    "qty": 1,
+    "children": [
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 },
+      { "code": "SFG00317", "qty": 1 },
+      { "code": "BO01181", "qty": 1 }
+    ]
+  },
+  "SFG01038": {
+    "qty": 1,
+    "children": [
+      { "code": "BO00244", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "BO00380", "qty": 4 },
+      { "code": "SFG00318", "qty": 1 },
+      { "code": "BO01181", "qty": 1 }
+    ]
+  },
+  "SFG00313": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 1.35 },
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 },
+      { "code": "SFG00317", "qty": 1 },
+      { "code": "BO01181", "qty": 1 },
+      { "code": "RM00009", "qty": 0.4 }
+    ]
+  },
+  "SFG00314": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 1.35 },
+      { "code": "BO00243", "qty": 1 },
+      { "code": "BO00338", "qty": 1 },
+      { "code": "BO00465", "qty": 1 },
+      { "code": "BO01104", "qty": 4 },
+      { "code": "SFG00317", "qty": 1 },
+      { "code": "BO01181", "qty": 1 },
+      { "code": "RM00009", "qty": 0.4 }
+    ]
+  },
+  "SFG00315": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 1.46 },
+      { "code": "BO00244", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "BO00380", "qty": 4 },
+      { "code": "SFG00318", "qty": 1 },
+      { "code": "BO01181", "qty": 1 },
+      { "code": "RM00009", "qty": 0.52 }
+    ]
+  },
+  "SFG00316": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 1.46 },
+      { "code": "BO00244", "qty": 1 },
+      { "code": "BO00339", "qty": 1 },
+      { "code": "BO00466", "qty": 1 },
+      { "code": "BO00380", "qty": 4 },
+      { "code": "SFG00318", "qty": 1 },
+      { "code": "BO01181", "qty": 1 },
+      { "code": "RM00009", "qty": 0.52 }
+    ]
+  },
+  "SFG00287": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00217", "qty": 0.075 },
+      { "code": "BO00209", "qty": 2 },
+      { "code": "BO00435", "qty": 1 },
+      { "code": "BO00396", "qty": 4 },
+      { "code": "BO00418", "qty": 4 },
+      { "code": "SFG00061", "qty": 1 }
+    ]
+  },
+  "SFG00288": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00217", "qty": 0.2 },
+      { "code": "BO00209", "qty": 2 },
+      { "code": "BO00435", "qty": 1 },
+      { "code": "BO00396", "qty": 4 },
+      { "code": "BO00418", "qty": 4 },
+      { "code": "SFG00061", "qty": 1 },
+      { "code": "SFG000932", "qty": 1 }
+    ]
+  },
+  "SFG00289": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00221", "qty": 0.075 },
+      { "code": "BO00218", "qty": 2 },
+      { "code": "BO00439", "qty": 1 },
+      { "code": "BO00396", "qty": 4 },
+      { "code": "BO00418", "qty": 4 },
+      { "code": "SFG00063", "qty": 1 }
+    ]
+  },
+
+  "SFG00290": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00221", "qty": 0.2 },
+      { "code": "BO00218", "qty": 2 },
+      { "code": "BO00439", "qty": 1 },
+      { "code": "BO00396", "qty": 4 },
+      { "code": "BO00418", "qty": 4 },
+      { "code": "SFG00063", "qty": 1 },
+      { "code": "SFG00038", "qty": 1 }
+    ]
+  },
+  "SFG01137": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00505", "qty": 0.2 },
+      { "code": "BO00200", "qty": 2 },
+      { "code": "BO00431", "qty": 1 },
+      { "code": "BO00396", "qty": 4 },
+      { "code": "BO00418", "qty": 4 },
+      { "code": "SFG01139", "qty": 1 },
+      { "code": "", "qty": 1 }
+    ]
+  },
+  "SFG01138": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00505", "qty": 0.2 },
+      { "code": "BO00200", "qty": 2 },
+      { "code": "BO00431", "qty": 1 },
+      { "code": "BO00396", "qty": 4 },
+      { "code": "BO00418", "qty": 4 },
+      { "code": "SFG01139", "qty": 1 },
+      { "code": "", "qty": 1 }
+    ]
+  },
+  "SFG00986": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00217", "qty": 0.1 },
+      { "code": "BO00209", "qty": 2 },
+      { "code": "BO00435", "qty": 1 },
+      { "code": "BO00396", "qty": 4 },
+      { "code": "BO00418", "qty": 4 },
+      { "code": "SFG00061", "qty": 1 }
+    ]
+  },
+  "SFG00987": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00217", "qty": 0.1 },
+      { "code": "BO00209", "qty": 2 },
+      { "code": "BO00435", "qty": 1 },
+      { "code": "BO00396", "qty": 4 },
+      { "code": "BO00418", "qty": 4 },
+      { "code": "SFG00061", "qty": 1 },
+      { "code": "SFG00932", "qty": 1 }
+    ]
+  },
+  "SFG00988": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00221", "qty": 0.1 },
+      { "code": "BO00218", "qty": 2 },
+      { "code": "BO00439", "qty": 1 },
+      { "code": "BO00396", "qty": 4 },
+      { "code": "BO00418", "qty": 4 },
+      { "code": "SFG00063", "qty": 1 }
+    ]
+  },
+  "SFG00989": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00221", "qty": 0.1 },
+      { "code": "BO00218", "qty": 2 },
+      { "code": "BO00439", "qty": 1 },
+      { "code": "BO00396", "qty": 4 },
+      { "code": "BO00418", "qty": 4 },
+      { "code": "SFG00063", "qty": 1 },
+      { "code": "SFG00038", "qty": 1 }
+    ]
+  },
+  "SFG00067": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00458", "qty": 1 },
+      { "code": "RM00458", "qty": 1 },
+      { "code": "SFG00070", "qty": 1 },
+      { "code": "BO00375", "qty": 1 },
+      { "code": "BO00412", "qty": 1 }
+    ]
+  },
+  "SFG00068": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00434", "qty": 1 },
+      { "code": "RM00434", "qty": 1 },
+      { "code": "RM00458", "qty": 1 },
+      { "code": "SFG00071", "qty": 1 },
+      { "code": "BO00382", "qty": 1 },
+      { "code": "BO00414", "qty": 1 }
+    ]
+  },
+  "SFG01094": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00462", "qty": 1 },
+      { "code": "RM00462", "qty": 1 },
+      { "code": "RM00434", "qty": 1 },
+      { "code": "SFG00910", "qty": 1 },
+      { "code": "BO00390", "qty": 1 },
+      { "code": "BO00416", "qty": 1 }
+    ]
+  },
+  "SFG00069": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00434", "qty": 1 },
+      { "code": "RM00434", "qty": 1 },
+      { "code": "RM00434", "qty": 1 },
+      { "code": "RM00434", "qty": 1 },
+      { "code": "SFG00071", "qty": 1 },
+      { "code": "RM00219", "qty": 1 },
+      { "code": "BO00802", "qty": 1 }
+    ]
+  },
+  "SFG00908": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00434", "qty": 1 },
+      { "code": "RM00434", "qty": 1 },
+      { "code": "RM00434", "qty": 1 },
+      { "code": "RM00434", "qty": 1 },
+      { "code": "SFG00071", "qty": 1 },
+      { "code": "BO00382", "qty": 1 },
+      { "code": "BO00414", "qty": 1 },
+      { "code": "BO00955", "qty": 1 },
+      { "code": "SFG01159", "qty": 1 },
+      { "code": "BO00953", "qty": 1 },
+      { "code": "SFG00912", "qty": 2 },
+      { "code": "SFG00532", "qty": 2 },
+      { "code": "RM00415", "qty": 2.66 },
+      { "code": "RM00415", "qty": 3.4 },
+      { "code": "SFG01160", "qty": 1 }
+    ]
+  },
+  "SFG00072": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00458", "qty": 1 },
+      { "code": "SFG00076", "qty": 1 },
+      { "code": "RM00458", "qty": 0.5 },
+      { "code": "SFG00074", "qty": 4 },
+      { "code": "SFG00080", "qty": 2 },
+      { "code": "BO00375", "qty": 4 },
+      { "code": "BO00412", "qty": 4 }
+    ]
+  },
+  "SFG00073": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00434", "qty": 1 },
+      { "code": "SFG00079", "qty": 1 },
+      { "code": "RM00434", "qty": 0.5 },
+      { "code": "SFG00075", "qty": 4 },
+      { "code": "SFG00081", "qty": 2 },
+      { "code": "BO00382", "qty": 4 },
+      { "code": "BO00414", "qty": 4 }
+    ]
+  },
+  "SFG00916": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00458", "qty": 1 },
+      { "code": "SFG00079", "qty": 1 },
+      { "code": "RM00434", "qty": 0.5 },
+      { "code": "RM00458", "qty": 1 },
+      { "code": "SFG00075", "qty": 4 },
+      { "code": "BO00802", "qty": 2 },
+      { "code": "BO00382", "qty": 4 },
+      { "code": "BO00414", "qty": 4 }
+    ]
+  },
+  "SFG02223": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00434", "qty": 1 },
+      { "code": "SFG00077", "qty": 1 },
+      { "code": "RM00458", "qty": 1 },
+      { "code": "RM00434", "qty": 1 },
+      { "code": "BO00802", "qty": 1 },
+      { "code": "RM00458", "qty": 1 },
+      { "code": "RM00215", "qty": 1 },
+      { "code": "SFG00075", "qty": 1 },
+      { "code": "RM00219", "qty": 1 },
+      { "code": "BO00382", "qty": 1 },
+      { "code": "BO00414", "qty": 1 },
+      { "code": "BO00375", "qty": 1 },
+      { "code": "BO00412", "qty": 1 }
+    ]
+  },
+  "SFG00175": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 3.05 },
+      { "code": "SFG00842", "qty": 1 },
+      { "code": "SFG00748", "qty": 1 },
+      { "code": "SFG00749", "qty": 2 },
+      { "code": "SFG00750", "qty": 1 },
+      { "code": "SFG00751", "qty": 1 },
+      { "code": "SFG00752", "qty": 1 },
+      { "code": "SFG00753", "qty": 1 },
+      { "code": "BO00940", "qty": 1 },
+      { "code": "BO00885", "qty": 1 },
+      { "code": "BO00468", "qty": 1 },
+      { "code": "BO00939", "qty": 3 },
+      { "code": "SFG00755", "qty": 2 },
+      { "code": "SFG00754", "qty": 1 },
+      { "code": "BO00387", "qty": 1 },
+      { "code": "BO01992", "qty": 1 }
+    ]
+  },
+  "SFG00176": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 3.05 },
+      { "code": "RM00009", "qty": 2.75 },
+      { "code": "SFG00842", "qty": 1 },
+      { "code": "SFG00748", "qty": 1 },
+      { "code": "SFG00749", "qty": 2 },
+      { "code": "SFG00750", "qty": 1 },
+      { "code": "SFG00751", "qty": 1 },
+      { "code": "SFG00752", "qty": 1 },
+      { "code": "SFG00753", "qty": 1 },
+      { "code": "BO00940", "qty": 1 },
+      { "code": "BO00885", "qty": 1 },
+      { "code": "BO00468", "qty": 1 },
+      { "code": "BO00939", "qty": 3 },
+      { "code": "SFG00755", "qty": 2 },
+      { "code": "SFG00754", "qty": 1 },
+      { "code": "BO00387", "qty": 1 },
+      { "code": "BO01992", "qty": 1 }
+    ]
+  },
+  "SFG00179": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00009", "qty": 2.44 },
+      { "code": "SFG01109", "qty": 1 },
+      { "code": "SFG01106", "qty": 1 },
+      { "code": "SFG00749", "qty": 2 },
+      { "code": "SFG00750", "qty": 1 },
+      { "code": "SFG00751", "qty": 1 },
+      { "code": "SFG00752", "qty": 1 },
+      { "code": "SFG00753", "qty": 1 },
+      { "code": "BO00940", "qty": 1 },
+      { "code": "BO00885", "qty": 1 },
+      { "code": "BO00467", "qty": 1 },
+      { "code": "BO00939", "qty": 3 },
+      { "code": "SFG00755", "qty": 2 },
+      { "code": "SFG00754", "qty": 1 },
+      { "code": "BO00387", "qty": 1 },
+      { "code": "BO01992", "qty": 1 }
+    ]
+  },
+  "SFG00180": {
+    "qty": 2,
+    "children": [
+      { "code": "RM00009", "qty": 8.5 },
+      { "code": "SFG01109", "qty": 2 },
+      { "code": "SFG00805", "qty": 4 },
+      { "code": "BO00371", "qty": 16 },
+      { "code": "BO00412", "qty": 16 }
+    ]
+  },
+  "SFG00177": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 3.05 },
+      { "code": "SFG00843", "qty": 1 },
+      { "code": "SFG00748", "qty": 1 },
+      { "code": "SFG00749", "qty": 2 },
+      { "code": "SFG00750", "qty": 1 },
+      { "code": "SFG00751", "qty": 1 },
+      { "code": "SFG00752", "qty": 1 },
+      { "code": "SFG00753", "qty": 1 },
+      { "code": "BO00940", "qty": 1 },
+      { "code": "BO00885", "qty": 1 },
+      { "code": "BO00468", "qty": 1 },
+      { "code": "BO00939", "qty": 3 },
+      { "code": "SFG00755", "qty": 2 },
+      { "code": "SFG00754", "qty": 1 },
+      { "code": "BO00387", "qty": 1 },
+      { "code": "BO01992", "qty": 1 }
+    ]
+  },
+  "SFG00178": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 5.88 },
+      { "code": "SFG00843", "qty": 1 },
+      { "code": "SFG00748", "qty": 1 },
+      { "code": "SFG00749", "qty": 2 },
+      { "code": "SFG00750", "qty": 1 },
+      { "code": "SFG00751", "qty": 1 },
+      { "code": "SFG00752", "qty": 1 },
+      { "code": "SFG00753", "qty": 1 },
+      { "code": "BO00940", "qty": 1 },
+      { "code": "BO00885", "qty": 1 },
+      { "code": "BO00468", "qty": 1 },
+      { "code": "BO00939", "qty": 3 },
+      { "code": "SFG00755", "qty": 2 },
+      { "code": "SFG00754", "qty": 1 },
+      { "code": "BO00387", "qty": 1 },
+      { "code": "BO01992", "qty": 1 }
+    ]
+  },
+  "SFG00181": {
+    "qty": 1,
+    "children": [
+      { "code": "RM00013", "qty": 3.05 },
+      { "code": "SFG01110", "qty": 1 },
+      { "code": "SFG01106", "qty": 1 },
+      { "code": "SFG00749", "qty": 2 },
+      { "code": "SFG00750", "qty": 1 },
+      { "code": "SFG00751", "qty": 1 },
+      { "code": "SFG00752", "qty": 1 },
+      { "code": "SFG00753", "qty": 1 },
+      { "code": "BO00940", "qty": 1 },
+      { "code": "BO00885", "qty": 1 },
+      { "code": "BO00467", "qty": 1 },
+      { "code": "BO00939", "qty": 3 },
+      { "code": "SFG00755", "qty": 2 },
+      { "code": "SFG00754", "qty": 1 },
+      { "code": "BO00387", "qty": 1 },
+      { "code": "BO01992", "qty": 1 }
+    ]
+  },
+  "SFG00183": {
+    "qty": 1,
+    "children": [
+      { "code": "SFG01323", "qty": 1 },
+      { "code": "SFG01268", "qty": 1 },
+      { "code": "RM00009", "qty": 3.7 },
+      { "code": "BO01056", "qty": 1 },
+      { "code": "SFG00867", "qty": 2 },
+      { "code": "SFG00868", "qty": 2 },
+      { "code": "SFG00869", "qty": 1 },
+      { "code": "SFG00870", "qty": 1 },
+      { "code": "SFG00871", "qty": 1 },
+      { "code": "SFG01396", "qty": 2 },
+      { "code": "SFG00873", "qty": 1 },
+      { "code": "SFG00872", "qty": 1 },
+      { "code": "SFG00877", "qty": 2 },
+      { "code": "SFG00874", "qty": 2 },
+      { "code": "SFG00875", "qty": 1 },
+      { "code": "BO00939", "qty": 2 },
+      { "code": "RM00009", "qty": 0.21 },
+      { "code": "RM00009", "qty": 0.1 },
+      { "code": "RM00021", "qty": 0.979 },
+      { "code": "SFG01351", "qty": 1 },
+      { "code": "BO00345", "qty": 0.19 }
+    ]
+  }
+}
